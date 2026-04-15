@@ -1,3 +1,3 @@
 # mi-perfil2
 
-https://media.tenor.com/EJYlM5GpepsAAAAM/wario.gif
+![] https://media.tenor.com/EJYlM5GpepsAAAAM/wario.gif
