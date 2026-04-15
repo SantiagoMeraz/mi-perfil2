@@ -4,8 +4,9 @@
 
 ## Hola :sunglasses: , soy Santiago Meraz Acosta.
 
-| Juego de pelea | Col B  |
+| Juego de pelea | dominio  |
 |--------|--------|
-| dato 1 | dato 2 |
-| dato 3 | dato 4 |
-
+| street fighter 6 | 7/10 |
+| super smash bros ultimate | 5/10 |
+| dragon ball fighterZ | 4/10 |
+| guilty gear -strive-| 8/10 |
