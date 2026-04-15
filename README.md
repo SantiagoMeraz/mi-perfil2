@@ -2,4 +2,4 @@
 
 ![](https://media.tenor.com/EJYlM5GpepsAAAAM/wario.gif)
 
-## Hola :smile: , soy Santiago Meraz Acosta
+## Hola :smiley: , soy Santiago Meraz Acosta.
