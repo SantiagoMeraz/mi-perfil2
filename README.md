@@ -15,7 +15,7 @@
 
 Hola en este momento estoy estudiando diseño digital de medios interactivos en la univercidad autonoma de ciudad juares, tambien trato de entrar en el ambito competitivo de juegos de pelea.
 
-###Algunas cosas que me gustan son:
+### Algunas cosas que me gustan son:
 
 - Los videojuegos
 - La animación
@@ -24,7 +24,7 @@ Hola en este momento estoy estudiando diseño digital de medios interactivos en 
 - El arte
 - La psicologia
 
-###Mi top de comidas
+### Mi top de comidas
 
 1. Pizza
 2. Fresas con crema
